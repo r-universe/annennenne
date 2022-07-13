@@ -2,5 +2,9 @@
   {
     "package": "causalDisco",
     "oncran": true
+  },
+  {
+    "package": "PCADSC",
+    "oncran": true
   }
 ]
