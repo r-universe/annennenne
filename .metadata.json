@@ -1,10 +1,10 @@
 [
   {
-    "package": "PCADSC",
+    "package": "causalDisco",
     "oncran": true
   },
   {
-    "package": "causalDisco",
+    "package": "PCADSC",
     "oncran": true
   }
 ]

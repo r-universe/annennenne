@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PCADSC"]
-	path = PCADSC
-	url = https://github.com/annennenne/pcadsc
-	shallow = true
-	registered = true
 [submodule "causalDisco"]
 	path = causalDisco
 	url = https://github.com/annennenne/causaldisco
+	shallow = true
+	registered = true
+[submodule "PCADSC"]
+	path = PCADSC
+	url = https://github.com/annennenne/pcadsc
 	shallow = true
 	registered = true
