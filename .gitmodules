@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "causalDisco"]
-	path = causalDisco
-	url = https://github.com/annennenne/causaldisco
 [submodule "PCADSC"]
 	path = PCADSC
 	url = https://github.com/annennenne/pcadsc
+[submodule "causalDisco"]
+	path = causalDisco
+	url = https://github.com/annennenne/causaldisco
