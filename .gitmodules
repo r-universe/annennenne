@@ -5,6 +5,3 @@
 [submodule "PCADSC"]
 	path = PCADSC
 	url = https://github.com/annennenne/pcadsc
-[submodule "causalDisco"]
-	path = causalDisco
-	url = https://github.com/annennenne/causaldisco
